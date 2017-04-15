@@ -1,3 +1,4 @@
+# Imagem Base - https://hub.docker.com/r/google/cloud-sdk/
 FROM  google/cloud-sdk
 
 MAINTAINER Carlos Barbero <carlosrgomes@gmail.com>
