@@ -1,4 +1,4 @@
-# Generic Sulamerica Jenkins Docker image
+# Generic Jenkins - Google CLoud SDK with jenkins
 
 The Jenkins Continuous Integration and Delivery server.
 
